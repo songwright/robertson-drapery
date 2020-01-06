@@ -27,7 +27,7 @@ E-mail: ".$_POST['email']."
 Message: ".$_POST['message']);
 
     {
-      $result='<div class="alert alert-success" role="alert"><strong>Thank you.</strong> I\'ll be in touch shortly.</div>'; // Success message
+      $result='<div class="alert alert-success" role="alert"><strong>Thank you.</strong> We\'ll be in touch shortly.</div>'; // Success message
     }
   }
 
@@ -65,7 +65,8 @@ Message: ".$_POST['message']);
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<img src="img/biz_logo.png">
+        <img src="img/logo.svg">
+        <img src="img/RobertsonDrapery.png" alt="Robertson Drapery">
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">

@@ -50,7 +50,7 @@ figcaption {
     height: 50px;
   }
 
-  .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
     color: #FFF;
     background-color: #28286c;
   }
@@ -66,8 +66,12 @@ figcaption {
     font-size: 18px;
     color: #FFF;
     padding: 12px 22px;
-    background-color: #28536C;
+    background-color: #28286c;
     border: 2px solid #FFF;
+  }
+
+  .btn:hover {
+    color: #FFF;
   }
 
   .container-fluid {
@@ -93,13 +97,6 @@ figcaption {
     color: #D5D5D5;
     text-decoration: none;
   }
-
-  /*@media (max-width: 900px) {
-    .fa {
-      font-size: 20px;
-      padding: 10px;
-    }
-  }*/
 
   /* Media Queries */
 
