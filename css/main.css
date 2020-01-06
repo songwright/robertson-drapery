@@ -101,6 +101,8 @@ figcaption {
     }
   }*/
 
+  /* Media Queries */
+
   @media (max-width: 600px) {
     .carousel-caption {
       display: none;
@@ -116,7 +118,8 @@ figcaption {
       padding-right: 0;
     }
     .navbar img {
-      height: 30px;
-      margin: 10px;
+      width: auto;
+      max-height: 20px;
+      margin: 15px 0 10px 10px;
     }
   }
