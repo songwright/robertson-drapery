@@ -22,7 +22,7 @@ if ($_POST['submit']) {
     $result='<div class="alert alert-danger" role="alert"><strong>There is an error.</strong> Correct the following: '.$error.'</div>';
 // End error test
   } else {
-    mail("songwright66@gmail.com", "Contact message", "Name: ".$_POST['name']."
+    mail("songwright66@gmail.com", "Inquiry from website", "Name: ".$_POST['name']."
 E-mail: ".$_POST['email']."
 Message: ".$_POST['message']);
 
