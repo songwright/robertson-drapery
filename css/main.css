@@ -98,6 +98,16 @@ figcaption {
     text-decoration: none;
   }
 
+.services {
+  display: flex;
+}
+
+.services img {
+  width: 200px;
+  height: auto;
+  margin: 20px auto;
+}
+
   /* Media Queries */
 
   @media (max-width: 600px) {
