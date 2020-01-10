@@ -118,6 +118,10 @@ figcaption {
       height: 30px;
       margin: 10px;
     }
+    .services img {
+      width: 100%;
+      height: auto;
+    }
   }
 
   @media (max-width: 330px) {
