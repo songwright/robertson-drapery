@@ -4,7 +4,7 @@ This is a proposed website for the [Robertson Drapery company of Tennessee.](htt
 
 ![alt text](./img/logo.png "Logo")
 
-Link: http://ramon-sanchez.com/robertson-drapery/index.html
+Link: https://songwright.github.io/robertson-drapery/
 
 ## Built With
 * HTML
